@@ -1,10 +1,14 @@
+------------------------------------------------------------------------------------------------------------------------------
 GUESS THE NUMBER
+-------------------------------------------------------------------------------------------------------------------------------
 Key Concept: Generating Random Integers in a Range
+---------------------------------------------------------------------------------------------------------------------------------
 
-One of the trickiest parts often is how you generate a random integer between two inclusive bounds. In your code:
+->One of the trickiest parts often is how you generate a random integer between two inclusive bounds. In your code:
 
 1 + (int)(100 * Math.random())
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 Math.random() gives value x in [0.0, 1.0).
 
